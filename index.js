@@ -14,4 +14,6 @@ function addingEventListener() {
 addingEventListener();
 
 
-// Always remember to call the function
+// Always remember to call the function if the addEventListener() is within another function.
+// However, if the event listener is not within a function, 
+// no need of doing so
